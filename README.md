@@ -1,7 +1,7 @@
 <div>
    <a href="https://github.com/jusjusu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jusjusu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusjusu&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
